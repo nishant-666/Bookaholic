@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+ 
+}
+.Top{
+  background-image: linear-gradient(45.34deg, #1D2252 5.66%, #72AAFF 50.01%, #00FFFF 94.35%)
+}
+
+.App-logo {
+
+  height: 100%;
+
+}
+
+.App-header {
+ margin-top: 0px;
+  height: 150px;
+  padding: 20px;
+  color: #2196f3;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
